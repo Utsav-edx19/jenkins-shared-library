@@ -2,6 +2,6 @@ def name(String name = 'Person') {
     echo "Hello, ${name}."
 }
 
-def call() {
+def noName() {
     echo "Hello, World."
 }
