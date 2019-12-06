@@ -1,7 +1,7 @@
 def name(String name = 'Person') {
-    echo "Hello, ${name}."
+    echo "Hello, ${name}!"
 }
 
 def noName() {
-    echo "Hello, World."
+    echo "Hello, World!"
 }
